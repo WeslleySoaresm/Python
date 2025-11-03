@@ -49,7 +49,7 @@ estoque = {
     "Clean Code": 2,
     "Automate the Boring Stuff": 0
 }
-
+```
 ---
 
 ## 🎓 2. Criar Dicionário de Notas por Aluno
