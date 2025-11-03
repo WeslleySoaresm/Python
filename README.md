@@ -195,7 +195,7 @@ estoque = {
 > 💬 *"Transformando lógica e dados em soluções eficientes com Python."*
 
 📫 Contato:
-🔗 [LinkedIn](https://www.linkedin.com) | 💻 [GitHub](https://github.com/seu-usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/weslley-soares-6677a4234/) | 💻 [GitHub](https://github.com/WeslleySoaresm)
 
 ---
 
@@ -203,4 +203,4 @@ estoque = {
 
 Feito com ❤️ e ☕ usando **Python**
 
-</div>```
+</div>
