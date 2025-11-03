@@ -50,18 +50,6 @@ estoque = {
     "Automate the Boring Stuff": 0
 }
 
-## 🧩 1. Atualizar Dicionário de Estoque de Livros
-📚 Atualiza o estoque de livros, adicionando ou removendo conforme a quantidade informada.  
-Remove automaticamente os livros com quantidade igual a zero.
-
-```python
-estoque = {
-    "Python Crash Course": 4,
-    "Clean Code": 2,
-    "Automate the Boring Stuff": 0
-}
-````
-
 ---
 
 ## 🎓 2. Criar Dicionário de Notas por Aluno
